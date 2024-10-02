@@ -1,1 +1,2 @@
-# herlabs-website
+# Hermes Labs
+Repositorio oficial de hermeslabs
